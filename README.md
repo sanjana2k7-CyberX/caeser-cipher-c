@@ -25,10 +25,12 @@ Run:
 # Example
 
 Input:
+
 Enter text: Happy  
 Enter shift: 4  
 
 Output:
+
 Encrypted text: Lettc
 
 # Concepts Demonstrated
